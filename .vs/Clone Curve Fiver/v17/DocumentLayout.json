@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\Clone Curve Fiver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D70F7F9E-4FBF-E78F-5DB9-312CE624DCE4}|Assembly-CSharp.csproj|c:\\unityprojects\\clone curve fiver\\assets\\tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70F7F9E-4FBF-E78F-5DB9-312CE624DCE4}|Assembly-CSharp.csproj|solutionrelative:assets\\tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70F7F9E-4FBF-E78F-5DB9-312CE624DCE4}|Assembly-CSharp.csproj|c:\\unityprojects\\clone curve fiver\\assets\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70F7F9E-4FBF-E78F-5DB9-312CE624DCE4}|Assembly-CSharp.csproj|solutionrelative:assets\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Clone Curve Fiver\\Assets\\Snake.cs",
+              "RelativeDocumentMoniker": "Assets\\Snake.cs",
+              "ToolTip": "C:\\UnityProjects\\Clone Curve Fiver\\Assets\\Snake.cs",
+              "RelativeToolTip": "Assets\\Snake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:36:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tail.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Clone Curve Fiver\\Assets\\Tail.cs",
+              "RelativeDocumentMoniker": "Assets\\Tail.cs",
+              "ToolTip": "C:\\UnityProjects\\Clone Curve Fiver\\Assets\\Tail.cs",
+              "RelativeToolTip": "Assets\\Tail.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:12:34.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
